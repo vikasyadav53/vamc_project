@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## how to run 
+
+1) Install node version 12.3. 2) Install angular version 8.3. 3) Go to root project location in cmd and run npm install. 4) ng serve 5) go to localhost:4200 in browser
